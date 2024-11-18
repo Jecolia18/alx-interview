@@ -4,6 +4,7 @@
 
 
 def pascal_triangle(n):
+    """function documentation"""
 
     pasc = []
 
