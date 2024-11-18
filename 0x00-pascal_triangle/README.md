@@ -1,0 +1,2 @@
+# First interview
+## pascal triangle
