@@ -13,7 +13,7 @@ pos = None
 
 
 def get_input():
-    
+    """this is to get input"""
     global n
     n = 0
     if len(sys.argv) != 2:
